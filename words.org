@@ -1,0 +1,20 @@
+#+TITLE:  Elisps a History - Words
+#+AUTHOR: John Hooks
+#+EMAIL:  john@bitmachina.com
+#+DATE:   <2016-09-29 Thu>
+#+STARTUP: indent
+#+STARTUP: hidestars
+
+** Words
+*** Creator
+    architect author deity framer initiator sire generator founder 
+    maker begetter
+
+*** Restorer
+    guardian keeper protector
+
+*** Destroyer
+    annihilator despoiler iconoclast pillager savage slaughterer
+    vandal wrecker ransacker demolisher
+
+*** Ether
