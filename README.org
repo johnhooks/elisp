@@ -1,0 +1,10 @@
+#+TITLE:  Elisps a Story
+#+AUTHOR: John Hooks
+#+EMAIL:  john@bitmachina.com
+#+DATE:   <2016-09-29 Thu>
+#+STARTUP: indent
+#+STARTUP: hidestars
+
+A fictional story about the origins of the Elisps and the Primitive
+Gods that came before them.
+   

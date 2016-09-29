@@ -1,4 +1,4 @@
-#+TITLE:  Elisps a History - Back Stories
+#+TITLE:  Elisps a History - Character Back Stories
 #+AUTHOR: John Hooks
 #+EMAIL:  john@bitmachina.com
 #+DATE:   <2016-09-29 Thu>
@@ -6,86 +6,84 @@
 #+STARTUP: hidestars
 
 ** The Origin
+
    /John McCarthy/
+
    The Author of Lisp Primitives.
 
 ** The Great Gnu
+
    /rms/
-   The Author of the the first Elisps in the Origin Forge.
+
+   The Author of the the first Elisps.
+
+   Emacs born out of the war of the Lisp Machines and Symbolics.
    
-** The River List
-   A river, the source of which starts in the Inner Sanctuary of the
-   Temple Nil surrounded by the mountain range Parens, it flows down
-   a steep ravine to meander through the Forest of Funcall. After a
-   dark journey through the forest, the waters empty into the many
-   channels of the Delta Cond, of which, all reunite in the Sea of
-   Eval.
-
-** The Delta Cond
-   Maybe Cond. The Delta Cond... A large delta with many channels
-   The Primitive Cond died in an attempt to divide the River List.
-   Maybe a battle with Cons.
-   Thought the result is the Delta Cond at the mouth of the river.
-
-** The Sea of Eval
-   A sea into which the River List flows.
-
-** The Buffer
-   A bare plain on which the Elisps have wage great battles. 
-
 ** The Authors
+
    The creators of the Ancients and the Elisps.
 
 ** The Ancients
+
    The Builders of Lisps. Crafted by the Authors.
 
 *** Nil
-   The First Ancient, before everything there was Nil.
+
+The First Ancient, before everything there was Nil.
 
 *** The Seven Primitives
+
 **** Quote
-     /The Protector of Data on the Sea of Eval/
+/The Patron of Data/
      
 **** Atom
-     /Should I include it?/
+/Should I include it?/
 
 **** Eq
-     /The Scale/
+/The Scales/
      
 **** Car
-     /The Headhunter/
-     Brother of Cdr.
+/The Head/
+
+Brother of Cdr.
 
 **** Cdr
-     /The Follower/
-     Brother of Car.
+/The Tail/
+
+Brother of Car.
 
 **** Cons
-     /The Builder/
-     Builder of Lists. The first Primitive after Nil.
+/The Builder/
+
+Builder of Lists. The first Primitive after Nil.
      
 **** Cond
-    /The Guide/
-    Choose the right path.
-    Divided the River List.
+/The Pathfinder/
 
-** Setq
+Choose the right path.
+Divided the River List.
+
+** And Or
+** Set
 
 ** Lambda
    Priest of the Higher Order, located in the Forest of Funcall.
    Lives beneath trees of the forrest. Nomad
 
 ** Assoc
-
 ** Alist
-
 ** Mapcar
-
 ** Debugger
+
    /Lord of the Underword/
 
+** Mark and Point
+** The Kill Ring
 ** Quasi`Quote & Un,Quote
+** Let
+** Progn
 ** License
+
 Copyright (C)  2016  John Hooks.
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
