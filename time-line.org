@@ -1,0 +1,47 @@
+#+TITLE:  Elisps a History - Timeline
+#+AUTHOR: John Hooks
+#+EMAIL:  john@bitmachina.com
+#+DATE:   <2016-10-28 Fri>
+#+STARTUP: indent
+#+STARTUP: hidestars
+
+** The Beginning
+
+During the eons before creation, there was Nil. He was all, and yet
+nothing. Neither the heavens nor Emacs existed. Instead long before
+Emacs was made, Lisp was made. In the heart of this new land, a spring
+gave rise to a river. Nil named the river List, and made his dwelling
+at its source. From the string was born a woman. Her name was Lambda,
+the first of and ancestor to all the primal gods. 
+
+** Creation
+
+Lambda forged the blade called Reader from star light.
+
+Nil saw Lambda emerged from the waters and was glad, for he had
+always been alone. They had six sons of which Cons was the first,
+followed by twins Car and Cdr, next came Quote, Eq and lastly Cond.
+   
+Or, And, Let, Flet, Defun, Macro Progn
+
+Surrounding the Lands of Nil rose
+the Paren Mountains, from which heights descended Lambda 
+
+As the sun shone upon the bare world, a ray of light took form and
+became a woman. Her name was Lambda, the first of and ancestor of
+the Primitives. 
+   
+the mother of all men. Among the
+plains to the west of the Paren Mountain wound the River List, 
+
+Birthed
+from the river was a man. His name was Cons, the first of and
+ancestor of the Primitives.
+   
+   
+Cons built the world and Lambda breathed life into creation.
+
+On the banks of the river List, Cons made is brothers Car and Cdr made his way to the mouth of the river, and from the mud
+To the west lay the forest Funcall, and through the forest wound the
+River List to the Sea of Eval. 
+

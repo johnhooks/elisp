@@ -7,40 +7,44 @@
 
 ** The Kingdom of Lisp
 
-   The lands in which this story take place.
+The lands in which this story take place.
 
 ** The River List
 
-   A river, the source of which starts in the Inner Sanctuary of the
-   Temple Nil surrounded by the mountain range Parens, it flows down
-   a steep ravine to meander through the Forest of Funcall. After a
-   dark journey through the forest, the waters empty into the many
-   channels of the Delta Cond, all of which, reunite in the Sea of
-   Eval.
+A river, the source of which starts in the Inner Sanctuary of the
+Temple Nil surrounded by the mountain range Parens, it flows down
+a steep ravine to meander through the Forest of Funcall. After a
+dark journey through the forest, the waters empty into the many
+channels of the Delta Cond, all of which, reunite in the Sea of
+Eval.
 
 ** The Paren Mountains
 
-   A jagged range of mountains to the east seperating the Kingdom of
-   Lisp from the rest of the continent.
+A jagged range of mountains to the east seperating the Kingdom of
+Lisp from the rest of the continent.
 
 ** The Forest of Funcall
 
-   Dewelling place of the prist Lambda. The 
+Dewelling place of the prist Lambda. The 
 
 ** The Delta Cond
 
-   Maybe Cond. The Delta Cond... A large delta with many channels
-   The Primitive Cond died in an attempt to divide the River List.
-   Maybe a battle with Cons.
-   Though the result is the Delta Cond at the mouth of the river.
+Maybe Cond. The Delta Cond... A large delta with many channels
+The Primitive Cond died in an attempt to divide the River List.
+Maybe a battle with Cons.
+Though the result is the Delta Cond at the mouth of the river.
 
 ** The Sea of Eval
 
-   The sea into which the River List flows.
+The sea into which the River List flows.
 
 ** The Buffer
 
-   The bare northern plain on which the Elisps have wage great battles. 
+The bare northern plain on which the Elisps have wage great battles. 
+
+** Memory
+
+Heaven?
 
 ** License
 
